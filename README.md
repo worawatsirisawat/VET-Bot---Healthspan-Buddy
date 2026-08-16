@@ -229,7 +229,6 @@ python tests/test_behavior.py
 | System tray control | ✅ ทำงานสมบูรณ์ | `QSystemTrayIcon`, ไม่ใช้ thread แยกอีกต่อไป |
 | Data persistence (SQLite) ข้าม session | ✅ ทำงานสมบูรณ์ | ทั้งสถิติรายวันและ user settings |
 | สรุปสถิติย้อนหลัง 7 วัน | ✅ ทำงานสมบูรณ์ | |
-| Custom skin (เปลี่ยนสี/รูปตัวละคร) | ❌ ถูกถอดออก | เดิมเป็นวงกลม+emoji แบบ placeholder 3 สี ถูกแทนที่ด้วย sprite จริง (normal/angry) ที่ควบคุมด้วยอารมณ์แทน ไม่มีระบบเลือกสกินอีกต่อไป |
 
 ---
 
